@@ -1,6 +1,6 @@
 # ELECTRON.JS TODO NOT ALMA UYGULAMASI 
 
-<p> Electron.js dilini tanımak adına yapmış olduğum ufak çaplı bir not alma projesidir.</p>
+<p> Electron.js framework'ünü tanımak adına yapmış olduğum ufak çaplı bir not alma projesidir.</p>
 <p>Not Ekleme ve Not Silme özelliklerinin yanı sıra Not düzenleme, renklendirme gibi güncellemeler sağlanabilir.</p>
 <p>Masaüstü uygulaması olarak kullanılabilir.</p>
 
